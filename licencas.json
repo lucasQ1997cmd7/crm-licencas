@@ -1,0 +1,14 @@
+{
+  "licencas": {
+    "CRM-RADIO-0001": {
+      "cliente": "Padaria Padre Eustaquio",
+      "expira": "2027-12-31",
+      "ativo": true
+    },
+    "CRM-TESTE-0001": {
+      "cliente": "Cliente Teste",
+      "expira": "2026-04-30",
+      "ativo": true
+    }
+  }
+}
