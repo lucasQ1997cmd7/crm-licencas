@@ -3,7 +3,7 @@
     "CRM-RADIO-0001": {
       "cliente": "Padaria Padre Eustaquio",
       "expira": "2025-12-31",
-      "ativo": true
+      "ativo": false
     },
     "CRM-TESTE-0001": {
       "cliente": "Cliente Teste",
