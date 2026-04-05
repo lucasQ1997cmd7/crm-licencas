@@ -1,13 +1,13 @@
 {
   "licencas": {
-    "CRMGuaicuíFM": {
-      "cliente": "Padaria Padre Eustaquio",
-      "expira": "2025-12-31",
+    "CRMGUAICUIFM": {
+      "cliente": "Radio Guaicui FM",
+      "expira": "2026-12-31",
       "ativo": true
     },
     "CRM-TESTE-0021": {
       "cliente": "Cliente Teste",
-      "expira": "2026-04-30",
+      "expira": "2026-12-31",
       "ativo": true
     }
   }
