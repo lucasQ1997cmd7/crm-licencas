@@ -15,7 +15,7 @@
     "PDV-PADARIA-001": {
       "cliente": "Padaria Padre Eustáquio",
       "expira": "2028-01-01",
-      "ativo": true
+      "ativo": false
     }
   }
 }
