@@ -2,7 +2,7 @@
   "licencas": {
     "CRMGUAICUIFM": {
       "cliente": "Radio Guaicui FM",
-      "expira": "2026-12-31",
+      "expira": "2027-12-31",
       "ativo": true
     },
     "CRM-TESTE-0021": {
@@ -15,7 +15,7 @@
     "PDV-PADARIA-001": {
       "cliente": "Padaria Padre Eustáquio",
       "expira": "2028-01-01",
-      "ativo": false
+      "ativo": true
     }
   }
 }
