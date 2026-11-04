@@ -16,7 +16,7 @@
       "cliente": "Padaria Padre Eustáquio",
       "expira": "2028-01-01",
       "ativo": true,
-      "perdas": { "ativo": true, "expira": "2027-12-31" }
+      "perdas": { "ativo": false, "expira": "2027-12-31" }
     }
   }
 }
